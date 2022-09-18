@@ -1,0 +1,5 @@
+If there are two students, student A and student B. The two students must solve the same number of exams in 6 days. However, student A has already solved 5 exams 
+and student B has solved only 3.
+
+Each of them will solve 3 exams daily during the mentioned period. 
+Compute the number of extra exams that student B should add daily to catch up with student A. And mention the day that student B would have solved the same number of exams as A
